@@ -1,0 +1,4 @@
+interface:
+  display_name: "江西财经大学本科论文规范"
+  short_description: "按学院指导手册检查和整理本科毕业论文"
+  default_prompt: "使用 $jiangxi-undergraduate-thesis 检查或整理这份普通本科毕业论文，按学院手册核对结构、格式、引用和提交材料。"
